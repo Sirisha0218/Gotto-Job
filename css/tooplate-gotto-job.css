@@ -16,7 +16,7 @@ https://www.tooplate.com/view/2134-gotto-job
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #f65129;
   --social-icon-link-bg-color:    #7f73eb;
-  --dark-color:                   #000000;
+  --dark-color:                   #00008B;
   --p-color:                      #717275;
   --border-color:                 #e9eaeb;
 
@@ -25,7 +25,7 @@ https://www.tooplate.com/view/2134-gotto-job
   --h1-font-size:                 62px;
   --h2-font-size:                 48px;
   --h3-font-size:                 36px;
-  --h4-font-size:                 32px;
+  --h4-font-size:                 40px;
   --h5-font-size:                 24px;
   --h6-font-size:                 22px;
   --p-font-size:                  20px;
@@ -1007,7 +1007,7 @@ nav[aria-label="breadcrumb"] {
 }
 
 .job-thumb p {
-  font-size: 18px;
+  font-size: 26px;
 }
 
 .job-thumb .badge {
